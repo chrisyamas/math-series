@@ -4,7 +4,7 @@
 
 ### Author: Christopher Yamas
 
-#### Tests (section to be filled out tomorrow with answers to the following questions)
+#### Tests
 
 For each function, there are several tests.
 
