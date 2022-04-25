@@ -4,6 +4,7 @@ from math_series.series import sum_series, sum_series_iterate
 
 # ----- Tests for fibonacci() function -----
 
+
 def test_fibonacci_zero():
     actual = fibonacci(0)
     expected = 0
